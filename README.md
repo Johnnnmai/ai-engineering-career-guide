@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Johnnnmai/ai-engineer-interview-field-guide/stargazers"><img src="https://img.shields.io/github/stars/Johnnnmai/ai-engineer-interview-field-guide?style=social" alt="GitHub Stars"></a>
-  <a href="https://github.com/Johnnnmai/ai-engineer-interview-field-guide/network/members"><img src="https://img.shields.io/github/forks/Johnnnmai/ai-engineer-interview-field-guide?style=social" alt="GitHub Forks"></a>
+  <a href="https://github.com/Johnnnmai/ai-engineering-career-guide/stargazers"><img src="https://img.shields.io/github/stars/Johnnnmai/ai-engineering-career-guide?style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/Johnnnmai/ai-engineering-career-guide/network/members"><img src="https://img.shields.io/github/forks/Johnnnmai/ai-engineering-career-guide?style=social" alt="GitHub Forks"></a>
   <a href="#license"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
-  <a href="https://github.com/Johnnnmai/ai-engineer-interview-field-guide/commits/main"><img src="https://img.shields.io/github/last-commit/Johnnnmai/ai-engineer-interview-field-guide" alt="Last Commit"></a>
+  <a href="https://github.com/Johnnnmai/ai-engineering-career-guide/commits/main"><img src="https://img.shields.io/github/last-commit/Johnnnmai/ai-engineering-career-guide" alt="Last Commit"></a>
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/intent/tweet?text=AI%20Engineer%20Interview%20Field%20Guide%20%E2%80%93%20built%20from%202%2C100%2B%20real%20job%20descriptions&url=https://github.com/Johnnnmai/ai-engineer-interview-field-guide"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Tweet"></a>
-  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/Johnnnmai/ai-engineer-interview-field-guide"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.reddit.com/submit?url=https://github.com/Johnnnmai/ai-engineer-interview-field-guide&title=AI%20Engineer%20Interview%20Field%20Guide"><img src="https://img.shields.io/badge/-Reddit-FF4500?logo=reddit&logoColor=white" alt="Reddit"></a>
+  <a href="https://twitter.com/intent/tweet?text=AI%20Engineer%20Interview%20Field%20Guide%20%E2%80%93%20built%20from%202%2C100%2B%20real%20job%20descriptions&url=https://github.com/Johnnnmai/ai-engineering-career-guide"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Tweet"></a>
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/Johnnnmai/ai-engineering-career-guide"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.reddit.com/submit?url=https://github.com/Johnnnmai/ai-engineering-career-guide&title=AI%20Engineer%20Interview%20Field%20Guide"><img src="https://img.shields.io/badge/-Reddit-FF4500?logo=reddit&logoColor=white" alt="Reddit"></a>
 </p>
 
 ---
@@ -193,5 +193,5 @@ MIT License - see [LICENSE](LICENSE) for details.
 <p align="center">
   <a href="https://valenx.org/books/aie">📘 The 0→1 AI Engineer Interview Playbook</a>
   <br/><br/>
-  If this helped, <a href="https://github.com/Johnnnmai/ai-engineer-interview-field-guide/stargazers">leave a ⭐</a>
+  If this helped, <a href="https://github.com/Johnnnmai/ai-engineering-career-guide/stargazers">leave a ⭐</a>
 </p>
