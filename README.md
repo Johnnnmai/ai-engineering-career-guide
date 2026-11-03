@@ -6,6 +6,8 @@
   </p>
 </p>
 
+<p align="center"><strong>Free:</strong> <a href="https://johnnnmai.github.io/ai-engineer-interview-questions/answer-check/?utm_source=github&utm_medium=readme&utm_campaign=ai-engineering-career-guide">Check your interview answer</a> &nbsp;|&nbsp; <strong>Weekly drills:</strong> <a href="https://buy.stripe.com/14AeVc4Wv7ita7O1Si5kk0j?utm_source=github&utm_medium=readme&utm_campaign=ai-engineering-career-guide">Interview Pass, $19/mo</a></p>
+
 <p align="center">
   <a href="https://github.com/Johnnnmai/ai-engineering-career-guide/stargazers"><img src="https://img.shields.io/github/stars/Johnnnmai/ai-engineering-career-guide?style=social" alt="GitHub Stars"></a>
   <a href="https://github.com/Johnnnmai/ai-engineering-career-guide/network/members"><img src="https://img.shields.io/github/forks/Johnnnmai/ai-engineering-career-guide?style=social" alt="GitHub Forks"></a>
