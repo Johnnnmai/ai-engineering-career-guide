@@ -6,7 +6,7 @@
   </p>
 </p>
 
-<p align="center"><strong>Free:</strong> <a href="https://johnnnmai.github.io/ai-engineer-interview-questions/answer-check/?utm_source=github&utm_medium=readme&utm_campaign=ai-engineering-career-guide">Check your interview answer</a> &nbsp;|&nbsp; <strong>Weekly drills:</strong> <a href="https://valenx.org/pass?utm_source=github&utm_medium=readme&utm_campaign=ai-engineering-career-guide">Interview Pass, $19/mo</a></p>
+<p align="center"><strong>Free:</strong> <a href="https://johnnnmai.github.io/ai-engineer-interview-questions/answer-check/?utm_source=github&utm_medium=readme&utm_campaign=ai-engineering-career-guide">Check your interview answer</a> &nbsp;|&nbsp; <strong>Weekly drills:</strong> <a href="https://valenx.org/pass?utm_source=github&utm_medium=readme&utm_campaign=ai-engineering-career-guide&utm_content=ai-engineering-career-guide_L9">Interview Pass, $19/mo</a></p>
 
 <p align="center">
   <a href="https://github.com/Johnnnmai/ai-engineering-career-guide/stargazers"><img src="https://img.shields.io/github/stars/Johnnnmai/ai-engineering-career-guide?style=social" alt="GitHub Stars"></a>
@@ -31,15 +31,15 @@ Everything here is based on real data: 2,100+ actual job descriptions, real inte
 
 This repo exists to become the go-to resource for AI engineering careers - role analysis, interview questions, career transition paths, portfolio strategy, and curated resources. All in one place. All backed by data.
 
-Star this repo to keep an eye on updates. Visit [valenx.org](https://valenx.org/) for more AI engineering career resources.
+Star this repo to keep an eye on updates. Visit [valenx.org](https://valenx.org/?utm_source=github&utm_medium=readme&utm_content=ai-engineering-career-guide_L34) for more AI engineering career resources.
 
 ---
 
 ### 📘 Sponsored by
 
-[The 0→1 AI Engineer Interview Playbook](https://valenx.org/books/aie) - Frameworks for LLM Systems, ML Infrastructure, and GenAI Interviews. Built from 150+ real AI engineer interview loops at Google, Amazon, Meta, OpenAI, and Anthropic.
+[The 0→1 AI Engineer Interview Playbook](https://valenx.org/books/aie?utm_source=github&utm_medium=readme&utm_content=ai-engineering-career-guide_L40) - Frameworks for LLM Systems, ML Infrastructure, and GenAI Interviews. Built from 150+ real AI engineer interview loops at Google, Amazon, Meta, OpenAI, and Anthropic.
 
-<a href="https://valenx.org/books/aie"><img src="https://img.shields.io/badge/Amazon_Kindle-$9.99-orange?style=for-the-badge&logo=amazon" alt="Get on Amazon"></a> <a href="https://www.amazon.com/dp/B0H2CML9XD"><img src="https://img.shields.io/badge/Free_with-Kindle_Unlimited-blue?style=for-the-badge&logo=amazon" alt="Free with KU"></a>
+<a href="https://valenx.org/books/aie?utm_source=github&utm_medium=readme&utm_content=ai-engineering-career-guide_L42"><img src="https://img.shields.io/badge/Amazon_Kindle-$9.99-orange?style=for-the-badge&logo=amazon" alt="Get on Amazon"></a> <a href="https://www.amazon.com/dp/B0H2CML9XD"><img src="https://img.shields.io/badge/Free_with-Kindle_Unlimited-blue?style=for-the-badge&logo=amazon" alt="Free with KU"></a>
 
 ---
 
@@ -193,7 +193,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 ---
 
 <p align="center">
-  <a href="https://valenx.org/books/aie">📘 The 0→1 AI Engineer Interview Playbook</a>
+  <a href="https://valenx.org/books/aie?utm_source=github&utm_medium=readme&utm_content=ai-engineering-career-guide_L196">📘 The 0→1 AI Engineer Interview Playbook</a>
   <br/><br/>
   If this helped, <a href="https://github.com/Johnnnmai/ai-engineering-career-guide/stargazers">leave a ⭐</a>
 </p>
